@@ -4,7 +4,7 @@ Python3.5 图片转字符画
 
 对于`Ubuntu`
 
-{%highlight bash%}
+{% highlight bash %}
 $ sudo apt-get install python-dev
 
 $ sudo apt-get install libtiff5-dev libjpeg8-dev zlib1g-dev \
@@ -14,7 +14,6 @@ $ sudo pip install pillow
 {%endhighlight%}
 
 对于`Arch Linux`（反正本人只做了如下工作，要是缺少什么我忘了加请留言告诉我）
-
-{%highlight bash%}
+{% highlight bash %}
 $ sudo pip install pillow
-{%endhighlight%}
+{% endhighlight %}
